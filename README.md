@@ -6,3 +6,9 @@ Docker image for Snakemake
 ```sh
 $ docker build -t dhhagan/snakemake:latest .
 ```
+
+## Run the image
+
+```sh
+$ docker run -it dhhagan/snakemake:latest
+```
